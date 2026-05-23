@@ -1,6 +1,6 @@
 # Simulador de Cuotas
 
-_Simulador de compras que permita a un usuario de un banco saber las cuotas mensuales que deberá aportar luego de realizar una compra con su tarjeta BCP_
+_Simulador de compras que permita a un usuario de un banco saber las cuotas mensuales que deberá aportar luego de realizar una compra con su tarjeta de su banco_
 
 
 ## Comenzando 🚀
